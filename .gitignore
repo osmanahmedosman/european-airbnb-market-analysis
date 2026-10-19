@@ -1,0 +1,7 @@
+
+raw data/
+
+# Temporary and local files
+*.tmp
+*.log
+~$*

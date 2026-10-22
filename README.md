@@ -117,7 +117,7 @@ european-airbnb-market-analysis/
 │   ├── 04_StarSchema.sql
 │   └── 05_Validation.sql
 ├── powerbi/
-│   ├── Airbnb_Analysis.pbix
+│   ├── European Airbnb Market Analysis.pbix
 │   └── screenshots/
 │       ├── page1_price_analysis.png
 │       └── page2_city_insights.png

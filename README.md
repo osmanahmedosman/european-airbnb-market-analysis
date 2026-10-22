@@ -125,10 +125,6 @@ Airbnb-European-Cities-Analysis/
 └── .gitignore
 ```
 
-## Disclaimer
-
-The dataset's price unit and the uniqueness of individual property listings should be confirmed from the original dataset documentation before making claims about absolute prices or unique listing counts.
-
 ## Author
 
 **Osman Ahmed Osman**  
@@ -137,6 +133,4 @@ AI & Data Solutions Engineer
 - **GitHub:** [osmanahmedosman](https://github.com/osmanahmedosman)
 - **LinkedIn:** [Osman Ahmed Osman](https://www.linkedin.com/in/osmanahmedosman)
 
----
 
-*Developed as part of a data analytics training project.*

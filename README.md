@@ -1,4 +1,4 @@
-# European Airbnb Price Analysis
+# European Airbnb Market Analysis
 
 ## Project Overview
 
@@ -12,7 +12,7 @@ The project transforms raw data into structured analytical tables and an interac
 - Explore weekday and weekend price differences.
 - Analyze room type distribution and accommodation capacity.
 - Examine cleanliness ratings and guest satisfaction across cities.
-- Explore the relationship between accommodation prices and location-related factors.
+- Explore accommodation characteristics and location-related factors.
 - Build an interactive Power BI report supported by a structured SQL data model.
 
 ## Dashboard Preview
@@ -109,7 +109,7 @@ The raw dataset is excluded from version control.
 ## Project Structure
 
 ```text
-Airbnb-European-Cities-Analysis/
+european-airbnb-market-analysis/
 ├── sql/
 │   ├── 01_Bronze.sql
 │   ├── 02_Silver.sql
@@ -132,5 +132,3 @@ AI & Data Solutions Engineer
 
 - **GitHub:** [osmanahmedosman](https://github.com/osmanahmedosman)
 - **LinkedIn:** [Osman Ahmed Osman](https://www.linkedin.com/in/osmanahmedosman)
-
-

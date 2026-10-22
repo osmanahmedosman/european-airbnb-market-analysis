@@ -29,6 +29,28 @@ Examines cleanliness ratings and guest satisfaction, room type distribution acro
 
 ![City Insights Dashboard](powerbi/screenshots/page2_city_insights.png)
 
+## Dashboard Preview
+
+### Page 1 — Price Analysis
+
+Explores average prices across cities and room types, compares weekday and weekend pricing, and provides interactive filters for deeper analysis.
+
+![Price Analysis Dashboard](powerbi/screenshots/page1_price_analysis.png)
+
+**Interactive Preview**
+
+![Price Analysis Interactive GIF](powerbi/gifs/page1_price_analysis.gif)
+
+### Page 2 — City Insights
+
+Examines cleanliness ratings and guest satisfaction, room type distribution across cities, and average bedroom counts by room type. KPI cards and interactive slicers support further exploration.
+
+![City Insights Dashboard](powerbi/screenshots/page2_city_insights.png)
+
+**Interactive Preview**
+
+![City Insights Interactive GIF](powerbi/gifs/page2_city_insights.gif)
+
 ## Dashboard Features
 
 ### Key Performance Indicators (KPIs)
